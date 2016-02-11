@@ -1,5 +1,7 @@
 # AutoFitTextView
 
+[![Join the chat at https://gitter.im/eneim/android-autofittextview](https://badges.gitter.im/eneim/android-autofittextview.svg)](https://gitter.im/eneim/android-autofittextview?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A TextView that automatically resizes text to fit perfectly within its bounds.
 
 ![Example Image](/website/static/autofittextview.gif?raw=true)
